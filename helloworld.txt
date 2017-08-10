@@ -1,2 +1,3 @@
 Hello world!
+We are here to learn git!
 Lets learn sourceTree!
